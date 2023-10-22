@@ -1,9 +1,17 @@
-h1{
-    display: inline;
+nav{
+    display: flex;
+    align-items: center;
 }
 
+.txt-Logo{
+    display: inline;
+    font-size:30px;
+}
+
+/*  Navigation Gifs.    */
 .gifs-Creativity{
     width:95px;
     height:40px;
     border-radius: 5px;
+    margin-left: 10px;
 }
