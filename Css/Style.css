@@ -3,9 +3,26 @@
         
 */
 
+/* Full-Screen div */
+html,
+body{
+    padding: 0px;
+    margin: 0px;
+    height: 99%;
+}
+
+.fullScreen{
+    background-color: chocolate;
+    height: calc(100vh - 20px);
+    margin: 10px;
+    border-radius: 10px;
+}
+
 nav{
     display: flex;
     align-items: center;
+    position: absolute;
+    z-index: 100;
 }
 
 .txt-Logo{
