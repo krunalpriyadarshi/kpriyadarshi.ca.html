@@ -9,9 +9,11 @@
   <section id="features">
     <h2>Features</h2>
     <ul>
-      <li>Feature 1: background Music has been added.</li>
-      <li>Feature 2: </li>
-      <li>Feature 3: </li>
+      <li>Feature 1: Fall back font family has been added.</li>
+      <li>Feature 2: Viewport size of page element has been created.</li>
+      <li>Feature 3: Favicon has been added.</li>
+      ...
+      <li>Feature : has been added.</li>
     </ul>
   </section>
 </body>
